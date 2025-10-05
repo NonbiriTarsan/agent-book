@@ -2,7 +2,7 @@
 
 表題の書籍サンプルコードをAmazon Novaで動かすトライ
 
-Pythonの実行環境は、Win11 、Vscode、WSL2
+Pythonの実行環境は、Win11 、Vscode、WSL2、Devcontianer
 
 
 ### 書籍について
@@ -11,5 +11,7 @@ Pythonの実行環境は、Win11 、Vscode、WSL2
 
 
 
-###  WSL2のUbuntuにpipが入っていなかったので
-sudo apt install python3-pip
+###  WSLの環境でDevcontainerでやっています。
+
+[AWS CDKとPythonでの開発環境をDevcontainerで作成](https://dev.classmethod.jp/articles/aws-cdk-python-devcontainer/)
+を参考にしてます。
