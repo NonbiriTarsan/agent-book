@@ -2,7 +2,7 @@
 
 表題の書籍サンプルコードをAmazon Novaで動かすトライ
 
-Pythonの実行環境は、Win11 、Vscode
+Pythonの実行環境は、Win11 、Vscode、WSL2
 
 
 ### 書籍について
@@ -11,3 +11,5 @@ Pythonの実行環境は、Win11 、Vscode
 
 
 
+###  WSL2のUbuntuにpipが入っていなかったので
+sudo apt install python3-pip
